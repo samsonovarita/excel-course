@@ -15,7 +15,8 @@
         "operator-linebreak": "off",
         "no-debugger": "off",
         "comma-dangle": "off",
-        "arrow-parens": "off"
+        "arrow-parens": "off",
+        "max-len": "off"
     },
     "extends": ["eslint:recommended", "google"]
 }
